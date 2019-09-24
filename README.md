@@ -24,7 +24,7 @@
 [GitHub源码](https://github.com/Jean-Jacques-Nuoan/collect) 、 [Demo演示](https://jean-jacques-nuoan.github.io/collect/canvas-nest/index.html)
 
 ### 动态离子背景和三角纽带效果组合
-[GitHub源码](https://github.com/Jean-Jacques-Nuoan/collect) 、 [Demo演示](https://jean-jacques-nuoan.github.io/collect/canvas-nest/index.html)
+[GitHub源码](https://github.com/Jean-Jacques-Nuoan/collect) 、 [Demo演示](https://jean-jacques-nuoan.github.io/collect/evan-you-plus/index.html)
 
 ### 基于 canvas 的五子棋完整功能实现
 

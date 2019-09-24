@@ -14,7 +14,10 @@
 
 ### 2. 知乎登录注册页动态离子背景效果
 
-[GitHub源码](https://github.com/Jean-Jacques-Nuoan/collect) 、 [Demo演示](https://jean-jacques-nuoan.github.io/collect/zhihu/index.html)
+[GitHub源码](https://github.com/Jean-Jacques-Nuoan/collect) 、 [Demo演示](https://jean-jacques-nuoan.github.io/collect/zhihu/index.html) 
+
+### 2. 知乎登录注册页动态离子背景效果(canvas-nest)
+[GitHub源码](https://github.com/Jean-Jacques-Nuoan/collect) 、 [Demo演示](https://jean-jacques-nuoan.github.io/collect/canvas-nest/index.html)
 
 ### 3. 基于 canvas 的五子棋完整功能实现
 

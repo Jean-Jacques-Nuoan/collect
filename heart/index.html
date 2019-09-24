@@ -85,11 +85,11 @@ google_ad_height = 50;
     <script type="text/javascript">
         var offsetX = $("#loveHeart").width() / 2;
         var offsetY = $("#loveHeart").height() / 2 - 55;
-        
+
         if (!document.createElement('canvas').getContext) {
             var msg = document.createElement("div");
             msg.id = "errorMsg";
-            msg.innerHTML = "Your browser doesn't support HTML5!<br/>Recommend use Chrome 14+/IE 9+/Firefox 7+/Safari 4+"; 
+            msg.innerHTML = "Your browser doesn't support HTML5!<br/>Recommend use Chrome 14+/IE 9+/Firefox 7+/Safari 4+";
             document.body.appendChild(msg);
             $("#code").css("display", "none")
             $("#copyright").css("position", "absolute");
@@ -100,7 +100,7 @@ google_ad_height = 50;
                 adjustWordsPosition();
                 startHeartAnimation();
             }, 10000);
-            
+
             $("#accept").click(function(){
                 $(this).hide();
                 $("#elapseClock").show();
